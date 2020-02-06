@@ -52,7 +52,7 @@
   },
   "sku-selector": {
     "props": {
-      "showVariationsErrorMessage": false,
+      "showVariationsErrorMessage": true,
       "initialSelection": "empty",
       "showValueNameForImageVariation": true
     }
